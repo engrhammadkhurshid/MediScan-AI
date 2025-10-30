@@ -1,0 +1,9 @@
+{
+  "hero": {
+    "src": "https://picsum.photos/seed/medtech/400/400",
+    "width": 400,
+    "height": 400,
+    "alt": "An abstract image representing medical technology and AI.",
+    "data-ai-hint": "medical technology"
+  }
+}
