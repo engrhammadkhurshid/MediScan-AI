@@ -1,5 +1,11 @@
 # MediScan AI
 
+<div align="center">
+  <img src="featured-image.webp" alt="MediScan AI - Intelligent Health Companion" width="100%" />
+</div>
+
+<br />
+
 Your intelligent health companion powered by Google Gemini AI. Scan prescriptions, identify medicines, and get instant answers about medications.
 
 ## 🚀 Features

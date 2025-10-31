@@ -8,6 +8,11 @@ const nextConfig: NextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  experimental: {
+    serverActions: {
+      bodySizeLimit: '10mb', // Increase limit for image uploads
+    },
+  },
   images: {
     remotePatterns: [
       {
