@@ -85,7 +85,7 @@ export default function Home() {
             </Link>
           </div>
           <p className="text-xs text-muted-foreground">
-            © 2025 MediScan AI - A practice project using Gemini API
+            © 2025 MediScan AI - AI-powered health companion
           </p>
            <p className="mt-2 text-xs text-muted-foreground">
             Released under the Apache-2.0 License.

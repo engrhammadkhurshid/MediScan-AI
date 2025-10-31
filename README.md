@@ -81,7 +81,7 @@ This application processes sensitive medical information. Please ensure:
 ## 🚨 Important Notes
 
 - **API Key Required**: The application will show an error dialog if the API key is missing or invalid
-- **Medical Disclaimer**: This is a practice project and should not be used as a substitute for professional medical advice
+- **Medical Disclaimer**: This application is for educational and informational purposes only and should not be used as a substitute for professional medical advice
 - **Data Privacy**: Images and queries are sent to Google's Gemini API for processing
 
 ## 👨‍💻 Developer
@@ -99,4 +99,4 @@ Released under the Apache-2.0 License.
 
 ---
 
-**Note**: This is a practice project using the Gemini API. It is not intended for production medical use.
+**Note**: This application uses the Google Gemini API for AI-powered medical information processing. It is designed for educational and informational purposes and is not intended for production medical use without proper validation and compliance with healthcare regulations.
